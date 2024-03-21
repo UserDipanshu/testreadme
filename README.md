@@ -27,26 +27,24 @@ In the current version, I have included the basic features required for proof of
 - Incorporated device authorization feature.
 - Added verification email feature.
 
-
 ## Planned Features for Phase Two
 
-### 1. Feature One (Planned)
+### 1. Feature One
 
 - Remote Software feature .
 - Description : User can update the config of the device remotely, using the web-app.
 
-### 2. Feature Two (Planned)
+### 2. Feature Two
 
 - Input Scanning feature.
 - Description : User can connect to device by scanning the QR code of the device .
 
-### 3. Feature three (Planned)
+### 3. Feature three
 
 - Report Generation in PDF format .
 - Description : User can generate and see the parameters in the form of excel file .
 
-### 5. Feature Four (Planned)
+### 5. Feature Four
 
 - Improved User Feedback Integration.
 - Description: Enhance the user feedback mechanism to incorporate insights gained from Phase One. Integrate icons to represent parameters for better visualization.
-
